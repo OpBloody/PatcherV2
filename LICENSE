@@ -1,0 +1,36 @@
+Mozilla Public License Version 2.0
+----------------------------------
+[... full MPL-2.0 text here ...]
+
+---
+Additional Terms – PatcherV2 Modding Policy:
+
+You may fork and modify PatcherV2 and distribute custom versions (e.g., "Custom Fork Name – Created by username").
+
+However, you must NOT:
+
+• You may not rename the project from "PatcherV2".
+This includes, but is not limited to, changing identifiers such as the window title, application name, binary names, or any branding elements that may imply the project is not derived from or associated with PatcherV2.
+
+• You may not remove or modify the original contributors’ credits.
+This includes any attempt to alter, obscure, replace, or omit the names, handles, or attribution of individuals who contributed to the original PatcherV2 project. All original credit must remain clearly visible and intact in both the source code and any user-facing areas where credits are shown.
+
+• You may not misrepresent yourself as the original creator of PatcherV2.
+You are prohibited from claiming sole or original authorship of the PatcherV2 project. Any forks, modifications, or derivative works must acknowledge the original project and its contributors, and must not suggest that your version is the official or original release unless explicitly authorized.
+
+• You may not remove or alter the original LICENSE file in modified versions.
+All forks and modified versions of PatcherV2 must retain the original LICENSE file to ensure continued acknowledgment of the original authorship and legal terms. Removal or alteration of the LICENSE file is strictly prohibited unless explicitly permitted by the original project maintainers.
+
+• You may not resell, rehost, or redistribute this software as your own.
+Selling this tool or hosting clones without clearly identifying the origin and licensing is prohibited unless permitted by the original maintainers.
+
+• The software is provided "as is" without warranty.
+The maintainers are not liable for any damages resulting from the use or misuse of the software. Use at your own risk.
+
+• Do not use the “PatcherV2” brand or visual identity for unrelated or misleading purposes.
+This includes unauthorized use of logos, names, or branding that could imply endorsement.
+
+• Forks must clearly state they are a modified version.
+Example: "Custom Fork of PatcherV2 by YourName" must be visible in credits, UI, or README of the fork.
+
+You may add your name to the credits if you are publishing a fork.
