@@ -76,7 +76,7 @@ PatcherV2 is a powerful, all-in-one Python-based Windows program designed for OS
 ---
 1. Download the latest release from the Releases section.
 2. Run the `setup.bat` file.
-3. Launch the `PatcherV2.pyw`
+3. Run the `PatcherV2 Launcher.exe`
 
 # ⚠ Disclaimer 
 PatcherV2 is intended for ethical and legal use only. Always obtain proper authorization before performing any scans or information gathering on systems you do not own.
