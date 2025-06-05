@@ -85,6 +85,5 @@ Currently PatcherV2 is **only** supported on `Windows 10`, `Windows 10 Pro` and 
 
 # 💝Our Contributors
 - [Deadly420](https://github.com/Deadly420)
-- [demoman6656](https://www.xbox.com/en-US/play/user/Qnb557917)
 
 ###### Copyright © 2025 BanRioT
