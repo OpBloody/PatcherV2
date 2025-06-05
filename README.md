@@ -81,7 +81,7 @@ PatcherV2 is a powerful, all-in-one Python-based Windows program designed for OS
 # ⚠ Disclaimer 
 PatcherV2 is intended for ethical and legal use only. Always obtain proper authorization before performing any scans or information gathering on systems you do not own.
 
-Currently PatcherV2 is **only** supported on `Windows 10`, `Windows 10 Pro` and `Windows 11`. We will most likely never support any other OS types as windows is PatcherV2's Native.
+Currently PatcherV2 is **only** supported on `Python 1.11.0` to `Python 1.12.1` `Windows 10`, `Windows 10 Pro` and `Windows 11`. We will most likely never support any other OS types as windows is PatcherV2's Native.
 
 # 💝Our Contributors
 - [Deadly420](https://github.com/Deadly420)
