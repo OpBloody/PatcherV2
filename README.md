@@ -1,9 +1,9 @@
-![Alt text](https://media.discordapp.net/attachments/1238756740812636203/1379054174515232848/title.png?ex=683ed7c8&is=683d8648&hm=3c3f7d2a498c942d7dc3d14f7d4b80ed764a6fd9866e09610a74b7b2e5300fb0&=&format=webp&quality=lossless&width=1126&height=177)
+![Alt text](https://i.ibb.co/LXstgPxw/title.png)
 ---
 PatcherV2 is a powerful, all-in-one Python-based Windows program designed for OSINT, ethical hacking, and comprehensive information gathering on targets. Whether you're a security professional, penetration tester, or cyber investigator, PatcherV2 provides a rich toolkit to streamline your reconnaissance and analysis workflows.
 
 
-![Alt text](https://media.discordapp.net/attachments/1238756740812636203/1379055835900022864/Features.png?ex=683ed954&is=683d87d4&hm=ad11a48d792e792e1888073f7686cc7c89d7985bbe930c727514072d48bae3ee&=&format=webp&quality=lossless&width=1126&height=121)
+![Alt text](https://i.ibb.co/Y4qg17nV/Features.png)
 ---
 - Multi-purpose OSINT toolset: Gather intelligence from various sources with ease.
 - Ethical hacking utilities: Perform information gathering and reconnaissance with powerful scanning and enumeration features.
@@ -12,7 +12,7 @@ PatcherV2 is a powerful, all-in-one Python-based Windows program designed for OS
 - Built with Python: Fully scriptable and customizable to fit your workflow.
 
 
-![Alt text](https://media.discordapp.net/attachments/1238756740812636203/1379058661443375215/tools.png?ex=683edbf6&is=683d8a76&hm=c1e34d8334e8b6e04f3e424a094df09984b7aea3f200188cdccfe6f26ef5f23f&=&format=webp&quality=lossless&width=1126&height=121)
+![Alt text](https://i.ibb.co/TD1YgVSk/tools.png)
 ---
 ## ​🇳​​🇪​​🇹​​🇼​​🇴​​🇷​​🇰​ ​🇹​​🇴​​🇴​​🇱​​🇸​
 - IP Lookup — Get info like geolocation and WHOIS for IP addresses.
@@ -72,7 +72,7 @@ PatcherV2 is a powerful, all-in-one Python-based Windows program designed for OS
 - Personal Database — Store and manage target details (names, IPs, addresses, etc.) in a simple, searchable CSV format.
 
 
-![Alt text](https://media.discordapp.net/attachments/1238756740812636203/1379057325595430983/Installation.png?ex=683edab8&is=683d8938&hm=660bff0b9f245b4deb1e2a658818fa61e645bdde7bbe8ee9a1f798c345406e92&=&format=webp&quality=lossless&width=1126&height=121)
+![Alt text](https://i.ibb.co/DgRZQXKF/Installation.png)
 ---
 1. Download the latest release from the Releases section.
 2. Run the `setup.bat` file.
