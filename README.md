@@ -1,3 +1,9 @@
+# ⚠ PatcherV2 has been discontinued. (Sorta)
+### PatcherV2 has been discontinued what does this mean?
+This means any version of PatcherV2 has and will be shutting down. We have opted to go a different route entirely and use **C# Winforms** as this allows for faster updates and a more reliable and stable GUI that looks nice. Our dev team is actively working hard on this new tool and GUI so please be patient.
+
+💓Additionally PatcherV2's source (The python port) will be available to the public.
+
 ![Alt text](https://i.ibb.co/LXstgPxw/title.png)
 ---
 PatcherV2 is a powerful, all-in-one Python-based Windows program designed for OSINT, ethical hacking, and comprehensive information gathering on targets. Whether you're a security professional, penetration tester, or cyber investigator, PatcherV2 provides a rich toolkit to streamline your reconnaissance and analysis workflows.
