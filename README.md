@@ -2,7 +2,7 @@
 ### PatcherV2 has been discontinued what does this mean?
 This means any version of PatcherV2 has and will be shutting down. We have opted to go a different route entirely and use **C# Winforms** as this allows for faster updates and a more reliable and stable GUI that looks nice. Our dev team is actively working hard on this new tool and GUI so please be patient.
 
-💓Additionally PatcherV2's source (The python port) will be available to the public.
+💓Additionally PatcherV2's source (The python port) will be available to the public once PatcherV3's Beta has concluded developement and is ready for the public.
 
 ![Alt text](https://i.ibb.co/LXstgPxw/title.png)
 ---
